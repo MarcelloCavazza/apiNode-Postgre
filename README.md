@@ -1,2 +1,1 @@
-install express:
-npm install --save express
+api based on node and postgre
